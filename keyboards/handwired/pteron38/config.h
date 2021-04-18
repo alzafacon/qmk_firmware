@@ -39,3 +39,7 @@
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5  /* 5 is default */
+
+#define IGNORE_MOD_TAP_INTERRUPT
+
+#define TAPPING_TERM 200 /* 200 is default */
